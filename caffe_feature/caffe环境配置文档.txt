@@ -1,0 +1,6 @@
+1.下载https://github.com/yonghenglh6/DepthwiseConvolution
+2.将caffe/src/caffe/layers 下的两个文件复制到 自己的caffe工程caffe/src/layers内
+3.将caffe/include/caffe/layers 下的一个文件复制到 自己的caffe工程caffe/include/layers内
+4.make clean
+5.make all
+6.make pycaffe
