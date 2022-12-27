@@ -23,7 +23,7 @@ redis==3.3.8
 request==2019.4.13
 requests==2.22.0
 scipy==1.0.0
-setuptools==41.2.0
+setuptools==65.5.1
 scikit-image==0.15.0
 six==1.12.0
 tensorflow==1.4.0
